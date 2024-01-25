@@ -1,0 +1,40 @@
+.search-item-container {
+  display: flex;
+  width: 90vw;
+  margin: 20px;
+}
+.logo-title-container {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+}
+.logo-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.time-stamp {
+  width: 130px;
+  font-weight: 500;
+  color: #475569;
+}
+.domain-logo {
+  width: 40px;
+  height: 40px;
+  margin: 20px;
+}
+.title {
+  margin-right: 20px;
+  margin-left: 20px;
+  font-weight: 500;
+  color: #475569;
+}
+.domain-url {
+  color: #64748b;
+}
+button {
+  background-color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
